@@ -1,0 +1,7 @@
+{
+  "name": "nu000",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
